@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.9394,
+  "finetuned_accuracy": 0.9348,
+  "improvement": -0.0046,
+  "test_set_size": 46,
+  "label_map": {
+    "Art": 0,
+    "News/Factual Update": 1,
+    "Substantive Analysis": 2,
+    "Open-Ended Question Discussion": 3
+  },
+  "model": "distilbert-base-uncased"
+}
